@@ -1,0 +1,7 @@
+# C 
+*.o
+*.s
+*.i
+*.exe
+main
+*.out
